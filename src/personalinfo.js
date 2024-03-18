@@ -9,7 +9,7 @@ export const  Personalinfo=()=>
     useEffect(() => {
         const test = () => {
             var tabsNewAnim = document.getElementById('navbarSupportedContent');
-            var selectorNewAnim = tabsNewAnim.querySelectorAll('li').length;
+            // var selectorNewAnim = tabsNewAnim.querySelectorAll('li').length;
             var activeItemNewAnim = tabsNewAnim.querySelector('.active');
             var activeWidthNewAnimHeight = activeItemNewAnim.clientHeight;
             var activeWidthNewAnimWidth = activeItemNewAnim.clientWidth;
