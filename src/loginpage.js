@@ -94,7 +94,7 @@ export let Loginpage = () => {
                             </div>
                         </div>
                             <div className="second col-lg-7  p-0">
-                            <div className="carousel carousel-dark slide w-100 p-0" data-bs-ride="carousel" id="my" style={{borderRadius:'20px'}}>
+                            <div className="carousel carousel-dark slide w-100 p-0" data-bs-ride="carousel" id="my" style={{borderRadius:'30px'}}>
                             <div className="carousel-inner" style={{borderRadius:'20px'}}>
                                 <div className="carousel-item active" data-bs-interval="2000">
                                     <img src={require('./images/Muthayammalcollege.png')} className="d-block " alt="First slide" style={{height: '430px', width:'800px', marginLeft: '0px'}}/>

@@ -1,7 +1,6 @@
-import './assests/createonecss.css';
+import './assests/edit_dashboardcss.css';
 import backgroundImage from './images/15007.jpg';
-
-export const SignupForm =()=>
+export const Editdashboard=()=>
 {
     const togglePasswordVisibility = () => {
         var passwordInput = document.getElementById('password');
@@ -29,7 +28,7 @@ export const SignupForm =()=>
                 background: 'linear-gradient(to right, #271BCF 22%, #55BBCF 100%)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
-            }}>New User Registration Form</h2>
+            }}>Edit Form for Dashborad</h2>
                  <div className="row">
                     <div className="col">
                         <label className="fl from-label float start fw-bold " >E-mail</label>
@@ -145,5 +144,4 @@ export const SignupForm =()=>
      </div>
         </>
     );
-
 }
