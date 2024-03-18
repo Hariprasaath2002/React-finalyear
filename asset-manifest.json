@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-finalyear/static/css/main.24d6177b.css",
+    "main.js": "/React-finalyear/static/js/main.fbaa6aff.js",
+    "static/media/386.jpg": "/React-finalyear/static/media/386.2986dc95ff2398437ccb.jpg",
+    "static/media/15007.jpg": "/React-finalyear/static/media/15007.b527c5465bb515db8506.jpg",
+    "static/media/Muthayammalcollege.png": "/React-finalyear/static/media/Muthayammalcollege.8a648b3d0c4f4f9d4e81.png",
+    "static/media/premecbg.jpg": "/React-finalyear/static/media/premecbg.f0e24e64c597dcb90c6b.jpg",
+    "static/media/5590897.jpg": "/React-finalyear/static/media/5590897.620228fcfeeddbdd4271.jpg",
+    "static/media/muthyammalcaorusel2.jpg": "/React-finalyear/static/media/muthyammalcaorusel2.04f09dd76ee0f514a9bd.jpg",
+    "static/media/projectbg1.png": "/React-finalyear/static/media/projectbg1.a2f744e97a200a59b2eb.png",
+    "static/media/muthayammalcarousel3.jpg": "/React-finalyear/static/media/muthayammalcarousel3.a991c10596231c098bfb.jpg",
+    "static/media/bg.png": "/React-finalyear/static/media/bg.48f148368d2564eb342d.png",
+    "static/media/4964089.jpg": "/React-finalyear/static/media/4964089.11214ab6d78365bd03b0.jpg",
+    "static/media/hariphoto.jpg": "/React-finalyear/static/media/hariphoto.0acd4457a7227f6c2b24.jpg",
+    "static/media/parental-control.png": "/React-finalyear/static/media/parental-control.6df1cd3d590ec33a2bae.png",
+    "index.html": "/React-finalyear/index.html",
+    "main.24d6177b.css.map": "/React-finalyear/static/css/main.24d6177b.css.map",
+    "main.fbaa6aff.js.map": "/React-finalyear/static/js/main.fbaa6aff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24d6177b.css",
+    "static/js/main.fbaa6aff.js"
+  ]
+}
