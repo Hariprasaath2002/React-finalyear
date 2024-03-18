@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-finalyear/static/css/main.24d6177b.css",
-    "main.js": "/React-finalyear/static/js/main.fbaa6aff.js",
+    "main.js": "/React-finalyear/static/js/main.b5651008.js",
     "static/media/386.jpg": "/React-finalyear/static/media/386.2986dc95ff2398437ccb.jpg",
     "static/media/15007.jpg": "/React-finalyear/static/media/15007.b527c5465bb515db8506.jpg",
     "static/media/Muthayammalcollege.png": "/React-finalyear/static/media/Muthayammalcollege.8a648b3d0c4f4f9d4e81.png",
@@ -16,10 +16,10 @@
     "static/media/parental-control.png": "/React-finalyear/static/media/parental-control.6df1cd3d590ec33a2bae.png",
     "index.html": "/React-finalyear/index.html",
     "main.24d6177b.css.map": "/React-finalyear/static/css/main.24d6177b.css.map",
-    "main.fbaa6aff.js.map": "/React-finalyear/static/js/main.fbaa6aff.js.map"
+    "main.b5651008.js.map": "/React-finalyear/static/js/main.b5651008.js.map"
   },
   "entrypoints": [
     "static/css/main.24d6177b.css",
-    "static/js/main.fbaa6aff.js"
+    "static/js/main.b5651008.js"
   ]
 }
